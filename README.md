@@ -1,5 +1,5 @@
-# portfolio-jerga-api
-Api Server - Udemy course material
+# portfolio-Bijitashya-api
+Api Server 
 
 
 ### 1. Run `npm install` to install all of the dependencies
